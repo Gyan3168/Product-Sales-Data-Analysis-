@@ -23,6 +23,5 @@ effectiveness of their sales strategies through visualization and charts
 ## __LEARNING__
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
-
-![Forecast Dashboard](https://github.com/Gyan3168/Product-Sales-Data-Analytics/assets/67944423/8d369313-fbae-4a85-a051-493a74e3861b)
 ![Data Dashboard](https://github.com/Gyan3168/Product-Sales-Data-Analytics/assets/67944423/6fe3e270-0fe1-4df0-8125-c27156a54f6a)
+![Forecast Dashboard](https://github.com/Gyan3168/Product-Sales-Data-Analytics/assets/67944423/8d369313-fbae-4a85-a051-493a74e3861b)
