@@ -17,4 +17,3 @@ allow users to explore the data at various levels of granularity
 iv)	 Data Analysis: Provide valuable insights to business entities regarding the
 effectiveness of their sales strategies through visualization and charts
 
-![image](https://github.com/Gyan3168/Product-Sales-Data-Analysis-/assets/67944423/47dda940-911b-464d-845d-290e239f476c)
