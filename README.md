@@ -13,13 +13,6 @@ allow users to explore the data at various levels of granularity.
 ii)	Data Analysis: Provide valuable insights to business entities regarding the
 effectiveness of their sales strategies through visualization and charts.
 
-iii)	Dashboard Creation: Identify the KPIs, design an intuitive and visually
-appealing dashboard, add interactive visualizations and filtering capabilities to
-allow users to explore the data at various levels of granularity
-
-iv)	 Data Analysis: Provide valuable insights to business entities regarding the
-effectiveness of their sales strategies through visualization and charts
-
 ## __LEARNING__
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
 
