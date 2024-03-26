@@ -1,5 +1,4 @@
-# [SALES & INVENTORY FORECASTING DASHBOARD USING POWER BI]
-
+# Product Sales Data Analytics
 
 ## **PROJECT OBJECTIVE:** 
 
